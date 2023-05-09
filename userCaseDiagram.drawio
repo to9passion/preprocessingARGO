@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T16:27:02.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="pMAdJQ2lA5WLHLpvTb5j" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T16:38:39.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="QQg4o1GzYWoCA9fOXWKX" version="21.2.9" type="github">
   <diagram name="페이지-1" id="vJ2CU3Rfx78g7FYy2zwW">
     <mxGraphModel dx="1371" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,6 +18,11 @@
         </mxCell>
         <mxCell id="vowap7ELRqdRtD5AyxOH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vowap7ELRqdRtD5AyxOH-1" target="vowap7ELRqdRtD5AyxOH-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vowap7ELRqdRtD5AyxOH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vowap7ELRqdRtD5AyxOH-1" target="vowap7ELRqdRtD5AyxOH-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="275" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vowap7ELRqdRtD5AyxOH-1" value="유학 준비생 / 부모" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="245" width="30" height="60" as="geometry" />
@@ -124,6 +129,61 @@
         </mxCell>
         <mxCell id="vowap7ELRqdRtD5AyxOH-25" value="현지 유학생 /&lt;br&gt;맘 /&lt;br&gt;교직원 /&lt;br&gt;마스터" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="111" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vowap7ELRqdRtD5AyxOH-33" value="유학 CLASS 신청" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vowap7ELRqdRtD5AyxOH-34" value="로그인" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vowap7ELRqdRtD5AyxOH-35" value="&amp;lt;include&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vowap7ELRqdRtD5AyxOH-34" target="vowap7ELRqdRtD5AyxOH-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="465" as="sourcePoint" />
+            <mxPoint x="1060" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vowap7ELRqdRtD5AyxOH-36" value="회원가입" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vowap7ELRqdRtD5AyxOH-37" value="&amp;lt;extend&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vowap7ELRqdRtD5AyxOH-38" target="vowap7ELRqdRtD5AyxOH-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="341" as="sourcePoint" />
+            <mxPoint x="260" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vowap7ELRqdRtD5AyxOH-38" value="결제하기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="330" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vowap7ELRqdRtD5AyxOH-39" value="&amp;lt;include&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vowap7ELRqdRtD5AyxOH-36" target="vowap7ELRqdRtD5AyxOH-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="227" as="sourcePoint" />
+            <mxPoint x="420" y="262" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vowap7ELRqdRtD5AyxOH-40" value="선배들의 Live Talk&lt;br&gt;시청" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="150" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vowap7ELRqdRtD5AyxOH-41" value="현지 Living Life&lt;br&gt;시청" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="330" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vowap7ELRqdRtD5AyxOH-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vowap7ELRqdRtD5AyxOH-1" target="vowap7ELRqdRtD5AyxOH-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="285" as="targetPoint" />
+            <mxPoint x="655" y="285" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vowap7ELRqdRtD5AyxOH-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vowap7ELRqdRtD5AyxOH-1" target="vowap7ELRqdRtD5AyxOH-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="564" y="375" as="targetPoint" />
+            <mxPoint x="655" y="285" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
