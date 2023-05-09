@@ -1,11 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T16:25:44.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Hsa01oNgXdix8m2DK8u5" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T16:27:02.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="pMAdJQ2lA5WLHLpvTb5j" version="21.2.9" type="github">
   <diagram name="페이지-1" id="vJ2CU3Rfx78g7FYy2zwW">
     <mxGraphModel dx="1371" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vowap7ELRqdRtD5AyxOH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vowap7ELRqdRtD5AyxOH-1" target="vowap7ELRqdRtD5AyxOH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vowap7ELRqdRtD5AyxOH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vowap7ELRqdRtD5AyxOH-1" target="vowap7ELRqdRtD5AyxOH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vowap7ELRqdRtD5AyxOH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vowap7ELRqdRtD5AyxOH-1" target="vowap7ELRqdRtD5AyxOH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vowap7ELRqdRtD5AyxOH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vowap7ELRqdRtD5AyxOH-1" target="vowap7ELRqdRtD5AyxOH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vowap7ELRqdRtD5AyxOH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vowap7ELRqdRtD5AyxOH-1" target="vowap7ELRqdRtD5AyxOH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vowap7ELRqdRtD5AyxOH-1" value="유학 준비생 / 부모" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="240" width="30" height="60" as="geometry" />
+          <mxGeometry x="630" y="245" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vowap7ELRqdRtD5AyxOH-3" value="대학 교직원 찾기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="240" width="140" height="70" as="geometry" />
